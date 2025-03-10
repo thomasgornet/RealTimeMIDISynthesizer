@@ -21,7 +21,10 @@ This project brings together concepts from **Fourier Transforms, time/frequency 
 
 For a deeper dive into the theory, implementation, and results, check out the full project report below! 🚀🎹  
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
