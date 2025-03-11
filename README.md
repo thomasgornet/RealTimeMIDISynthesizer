@@ -30,15 +30,6 @@ For a deeper dive into the theory, implementation, and results, check out the fu
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 # DSP MIDI Synthesizer Project Report  
 **Thomas Gornet**  
